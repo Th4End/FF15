@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "program to shutdown your computer",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,5 +12,8 @@
   "repository": {
     "type": "git",
     "url": "www.github.com/Th4End/ff15"
+  },
+  "dependencies": {
+    "commander": "^13.1.0"
   }
 }
