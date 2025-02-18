@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "www.github.com/Th4End/ff15"
+    "url": "www.github.com/Th4End/FF15"
   },
   "dependencies": {
     "commander": "^13.1.0"
